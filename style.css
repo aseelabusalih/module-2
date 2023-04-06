@@ -1,0 +1,23 @@
+
+.box-one{
+	width: 150px;
+	height: 50px;
+	background-color: #DF9C9C;
+	padding: 5px;
+	border: solid black 10px;
+	margin: 10px;
+	text-align: left;
+}
+.box-two{
+	width: 150px;
+	height: 50px;
+	background-color: #9CB7DF;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: dotted yellow 5px;
+	margin-left: 50px;
+	text-align: right;
+}
+h1{
+	text-align: center;
+}
